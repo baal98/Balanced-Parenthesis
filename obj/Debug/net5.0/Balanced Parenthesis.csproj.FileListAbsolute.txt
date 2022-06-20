@@ -1,0 +1,16 @@
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\bin\Debug\net5.0\Balanced Parenthesis.exe
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\bin\Debug\net5.0\Balanced Parenthesis.deps.json
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\bin\Debug\net5.0\Balanced Parenthesis.runtimeconfig.json
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\bin\Debug\net5.0\Balanced Parenthesis.runtimeconfig.dev.json
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\bin\Debug\net5.0\Balanced Parenthesis.dll
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\bin\Debug\net5.0\ref\Balanced Parenthesis.dll
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\bin\Debug\net5.0\Balanced Parenthesis.pdb
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.csproj.AssemblyReference.cache
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.AssemblyInfo.cs
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.dll
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\ref\Balanced Parenthesis.dll
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.pdb
+C:\Exercises\C# ADVANCED\Stacks and Queues\Stacks and Queues\Balanced Parenthesis\obj\Debug\net5.0\Balanced Parenthesis.genruntimeconfig.cache
